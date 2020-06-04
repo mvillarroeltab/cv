@@ -26,11 +26,12 @@ h3 {
 
 img {
   border-radius: 90%;
-  clip-path: circle(50px at 0 100px);
+  clip-path: circle(90%);
 }
 img:hover{
   border-style: dotted;
   border-color: #79bac1;
+  border-radius: 90%;
   
 }
 p{
