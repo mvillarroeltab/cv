@@ -26,6 +26,7 @@ h3 {
 
 img {
   border-radius: 90%;
+  clip-path: circle(95%);
 }
 img:hover{
   border-style: dotted;
