@@ -25,7 +25,7 @@ h3 {
 }
 
 img {
-  border-radius: 90%;
+ 
   clip-path: circle(90%);
 }
 img:hover{
